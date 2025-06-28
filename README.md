@@ -1,5 +1,5 @@
 # Complete python basics
-## Variables & Data Types in Python
+## Boolean, Float, Binary, Hex, Octal, Integer, None, Complex & String Data Types, List, Tuple, Set, Frozenset & Dictionery Variable Types, Charecter Types & Range in Python
 ## Operators in Python
 ## Number System Conversion in Python
 ## Loops in Python
