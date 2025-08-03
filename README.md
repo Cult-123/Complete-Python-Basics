@@ -1,4 +1,4 @@
-<img src="DataFile/Data Types.jpg" style="height:450px; width:550px"/>
+<img src="DataFile/Data Types.jpg" style="height:350px; width:600px"/>
 
 # Complete Indepth Python
 ## 1. Boolean, Float, Binary, Hex, Octal, Integer, None, Complex & String Data Types. List, Tuple, Set, Frozenset & Dictionery Data Structure Types. Charecter Types, Range & Number System Conversion in Python
